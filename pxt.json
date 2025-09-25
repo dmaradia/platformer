@@ -1,0 +1,45 @@
+{
+    "name": "project best - Copy",
+    "description": "Auto-generated LPC assets",
+    "dependencies": {
+        "device": "*",
+        "grafxkid-tiles": "github:riknoll/grafxkid-tiles#v2.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#2f2020",
+        "#3b2a32",
+        "#8d4e4a",
+        "#fab254",
+        "#000000"
+    ]
+}
